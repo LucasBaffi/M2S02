@@ -1,0 +1,105 @@
+body {
+  display: flex;
+    margin: 50px;
+    padding: 97px;
+    justify-content: space-evenly;
+}
+
+#sectionMain {
+  display: flex;
+  flex-direction: column;
+  width: 40%;  
+  border-right: 1px solid #bbbbbb;
+    padding-right: 41px;
+ 
+}
+
+.div-profile {
+  display: flex;
+  gap: 20px;
+}
+
+.img-profile {
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.div-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.p-Info-Profile {
+  margin-top: 20px;
+}
+
+h2 {
+  margin: 50px 0 0;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.div-template {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.div-section {
+  gap: 40px;
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  color: #405169;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.section-details {
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 100%;
+
+}
+
+.img-template {
+  width: 38px;
+  border-radius: 8px;
+}
+
+.div-descrpition-experience{
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+
+}
+
+span{
+  color:#7F8A9A;
+}
+
+.div-details{
+  display: flex;
+    flex-direction: column;
+    gap: 15px;
+    height: 25%;
+}
+
+.div-link{
+  display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 10px;
+}

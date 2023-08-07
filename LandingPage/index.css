@@ -1,0 +1,10 @@
+body{
+    background: rgb(172,220,247);
+    background: linear-gradient(0deg, rgba(172,220,247,1) 14%, rgba(208,235,255,1) 100%);
+}
+
+.div-fazer-parte{
+    height: 150px;
+}
+  
+
